@@ -15,6 +15,8 @@ public class Score {
     
             System.out.println("Sum: " + sum);
             System.out.println("Average: " + average);
+            System.out.println("maximum: " + max);
+            System.out.println("minimum: " + min);
         }
     }
     
